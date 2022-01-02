@@ -27,6 +27,8 @@ This notebook will plot wind direction and magnitude so you can visualize what a
 
 ![RadialGraph](images/radial_graph.png)
 
+![WindSlab](images/windslab.jpg)
+
 #### Multiple Station Attributes
 These graphs will graph multiple weather stations on a single graph using a common attribute, like `Temperature`.
 
