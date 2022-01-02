@@ -20,14 +20,20 @@ This is a repository of Jupyter Notebooks to analyze recent weather data using t
 ## Visualizations
 There are two kinds of visualizations
 
-#### Radial Plots
+### Radial Plots
 This will plot vectors of `X=degree` and `Y=magnitude`. These plots can be animated to show the recent trends over time.
 
 This notebook will plot wind direction and magnitude so you can visualize what aspects might have windloaded snow.
 
 ![RadialGraph](images/radial_graph.png)
 
-#### Multiple Station Attributes
+![WindSlab](images/windslab.jpg)
+
+### Multiple Station Attributes
 These graphs will graph multiple weather stations on a single graph using a common attribute, like `Temperature`.
 
 ![Temperature](images/temperature.png)
+
+Creating graphs like `Cumulative Precipitation` should allow you to correlate snow depth and relative size of layers.
+
+![CumPrecip](images/cum_precip.png)
