@@ -37,3 +37,5 @@ These graphs will graph multiple weather stations on a single graph using a comm
 Creating graphs like `Cumulative Precipitation` should allow you to correlate snow depth and relative size of layers.
 
 ![CumPrecip](images/cum_precip.png)
+
+![SnowLayers](images/snowlayers.jpg)
