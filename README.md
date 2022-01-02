@@ -38,4 +38,10 @@ Creating graphs like `Cumulative Precipitation` should allow you to correlate sn
 
 ![CumPrecip](images/cum_precip.png)
 
+```
+Snoqialmie WA, Kendall Knob
+5000' SW Aspect
+12/29/21
+```
+
 ![SnowLayers](images/snowlayers.jpg)
