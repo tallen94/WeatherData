@@ -1,3 +1,5 @@
+![Backcountry](images/backcountry.jpg)
+
 # Weather Data
 When traveling in the backcountry during winter time, updating yourself on current and recent weather data is important to understand likely avalanche danger.
 
