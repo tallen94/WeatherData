@@ -5,6 +5,16 @@ This is a repository of Jupyter Notebooks to analyze recent weather data using t
 
 ![NWAC](images/NWAC.png)
 
+## Setup
+
+#### Install Requirements
+
+`$ pip install -r requirements.txt`
+
+#### Start Notebook
+
+`$ jupyter notebook WeatherData.ipynb`
+
 ## Visualizations
 There are two kinds of visualizations
 
